@@ -9,4 +9,9 @@ meu nome é eloisa souza
 ### você entrar em contato comigo 📫
 
 eloisa.souza08@escola.pr.gov.br
+
 @eloisasouza0809
+
+![](![image](https://github.com/user-attachments/assets/800f769e-3adf-4d0e-a734-33bac772f2fb)
+
+
