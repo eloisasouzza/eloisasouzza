@@ -3,7 +3,9 @@
 meu nome é eloisa souza 
 
 -estou estudando na [alura](https://www.alura.com.br)
-estou me desenvolvendo na linguagem javaScript
+
+-estou me desenvolvendo na linguagem javaScript
+
 -utilizo esse espaço paraa minha organização e compartilhamentos dos meus projetos desenvolvidos.
 
 ### você entrar em contato comigo 📫
